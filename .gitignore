@@ -1,0 +1,11 @@
+# ignore file format
+*.zip
+*.pptx
+*.docx
+*.pdf
+*.hwp
+*.txt
+*.mp4
+
+# ignore directory
+DataSet/
